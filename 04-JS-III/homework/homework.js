@@ -264,7 +264,6 @@ function continueStatement(numero) {
     }
   }
   return nuevoArray;
-
 }
 
 
